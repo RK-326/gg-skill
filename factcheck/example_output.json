@@ -1,0 +1,561 @@
+{
+  "gpa": {
+    "label": "GPA-конверсия",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE** — US universities often evaluate international transcripts **course by course** and may use a credential evaluator like WES, but there is **no single official US-wide rule** that every school must convert a 5-point GPA by simply scaling it to 4.0. Scholaro explicitly says its method is to convert **each class to a US grade equivalent, then assign GPA points and weight by credits**, and College Board notes GPA conversions are **not necessarily a formula for your true GPA** and schools may calculate differently[6][4].\n\nSo, **dividing a 5-scale average by 1.25 is only a rough self-estimate**, not the standard official method; some schools instead map **each course grade** to a US letter/point value and then compute the GPA from credits, and individual universities even publish their own conversion charts/calculators[6][1][3].",
+    "sources": [
+      "https://bigfuture.collegeboard.org/plan-for-college/get-started/how-to-calculate-gpa-4.0-scale",
+      "https://www.marian.edu/admissions/application-process/gpa-converter-and-calculator.php",
+      "https://www.chowan.edu/admissions/gpa-converter-and-calculator/"
+    ],
+    "all_citations": [
+      "https://www.marian.edu/admissions/application-process/gpa-converter-and-calculator.php",
+      "https://blog.collegevine.com/how-to-convert-your-gpa-to-a-4-0-scale",
+      "https://www.chowan.edu/admissions/gpa-converter-and-calculator/",
+      "https://bigfuture.collegeboard.org/plan-for-college/get-started/how-to-calculate-gpa-4.0-scale",
+      "https://www.findamasters.com/guides/gpa-grade-point-average",
+      "https://www.scholaro.com/gpa-calculator/",
+      "https://www.iastate.edu/gpa-calculator",
+      "https://oztrekk.com/docs/gpa-conversion-chart.pdf"
+    ]
+  },
+  "test_optional": {
+    "label": "test-optional развернулся",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE** — It is no longer accurate to say *almost all* U.S. universities are test-optional, because many selective universities and some public systems have reinstated SAT/ACT requirements for the 2025–2026 cycle and beyond, but the majority of U.S. colleges still appear to remain test-optional or test-free overall.[2][3][6] Examples that brought testing back include **Harvard, Yale, Brown, Dartmouth, MIT, Stanford, Penn, Cornell, Caltech, Johns Hopkins, Georgetown, Princeton (starting 2027–28), Ohio State, and the University of Texas at Austin**.[2][3][4][6]",
+    "sources": [
+      "https://bigfuture.collegeboard.org/plan-for-college/find-your-fit/what-colleges-require-SAT",
+      "https://www.ttprep.com/more-and-more-colleges-are-reinstating-sat-act-as-of-2025-2026/",
+      "https://www.thehagwon.com/resource/library/24"
+    ],
+    "all_citations": [
+      "https://www.ttprep.com/more-and-more-colleges-are-reinstating-sat-act-as-of-2025-2026/",
+      "https://www.thehagwon.com/resource/library/24",
+      "https://progresslearning.com/news-blog/colleges-dropping-reinstating-act-sat-requirements/",
+      "https://www.compassprep.com/testing-spotlight/",
+      "https://www.tutordoctor.com/blog/2026/january/act-vs-sat-in-2025-which-test-should-your-child-take/",
+      "https://bigfuture.collegeboard.org/plan-for-college/find-your-fit/what-colleges-require-SAT",
+      "https://summitprep.com/blog/the-ultimate-guide-to-the-sat-act-and-college-admissions-in-2026/"
+    ]
+  },
+  "sat_ru_by": {
+    "label": "SAT в РФ/Беларуси",
+    "verdict": "FALSE",
+    "summary": "**FALSE** — The College Board’s official SAT Test Center Search is the authoritative way to check current availability, and the results provided do not show any SAT centers in Russia or Belarus; based on that, students should expect to travel to another country to take the SAT.[3]",
+    "sources": [
+      "https://satsuite.collegeboard.org/sat/test-center-search",
+      "https://www.cwu.edu.tr/sat-test-center/",
+      "https://tz.usembassy.gov/admission-tests-and-test-centers/"
+    ],
+    "all_citations": [
+      "https://satcenteravailable.com",
+      "https://tz.usembassy.gov/admission-tests-and-test-centers/",
+      "https://satsuite.collegeboard.org/sat/test-center-search",
+      "https://www.cwu.edu.tr/sat-test-center/",
+      "https://study.com/academy/popular/sat-test-locations-dates.html",
+      "https://alisteducation.co.uk/resources/guides/find-your-nearest-sat-test-centre",
+      "https://search.admission.org/test-center-search",
+      "https://www.testprepkart.com/sat/blog/sat-test-centers-in-usa"
+    ]
+  },
+  "pell": {
+    "label": "Pell Grant",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — Federal Pell Grants are generally limited to **U.S. citizens** and **eligible noncitizens** (for example, lawful permanent residents/green card holders), and students in a **nonimmigrant status like F-1** are generally **not eligible** for federal student aid, including Pell Grants.[1][7] Federal Student Aid also notes that Pell recipients must be enrolled at a **non-foreign institution** in an eligible undergraduate program.[1]",
+    "sources": [
+      "https://studentaid.gov/understand-aid/types/grants/pell",
+      "https://usdkb.sandiego.edu/s/article/Financial-Aid-Options-for-International-Students",
+      "https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2024-2025/vol7/ch1-student-eligibility-pell-grants"
+    ],
+    "all_citations": [
+      "https://fsapartners.ed.gov/knowledge-center/fsa-handbook/2024-2025/vol7/ch1-student-eligibility-pell-grants",
+      "https://www.mpowerfinancing.com/blog/can-an-international-student-apply-for-federal-financial-aid",
+      "https://www.sparrowfi.com/blog/are-international-students-eligible-for-federal-student-aid",
+      "https://usdkb.sandiego.edu/s/article/Financial-Aid-Options-for-International-Students",
+      "https://www.nafsa.org/about/about-international-education/financial-aid-undergraduate-international-students",
+      "https://www.internationalstudentloan.com/resources/financial-aid-for-international-students-usa.php",
+      "https://studentaid.gov/understand-aid/types/grants/pell"
+    ]
+  },
+  "need_blind": {
+    "label": "need-blind для иностранцев",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE** — As of the 2025–2026 cycle, the US universities clearly confirmed by primary/official sources as need-blind for **international undergraduate** applicants include Amherst, Bowdoin, Harvard, MIT, Princeton, Yale, Dartmouth, and Brown; Brown says it will become need-blind for all international undergraduates starting with the Class of 2029, arriving in Fall 2025[1]. Brown is therefore **current/confirmed for the 2025–2026 cycle**, while the search results do **not** provide a primary official source for Notre Dame’s current international need-blind status, so I cannot confirm it from the evidence provided[1][2][3].",
+    "sources": [
+      "https://president.brown.edu/president/need-blind-admission-international-undergraduates",
+      "https://studyinternational.com/news/need-blind-universities-in-the-us/",
+      "https://www.theuniversityguys.com/understanding-need-blind-admissions-for-international-students/"
+    ],
+    "all_citations": [
+      "https://president.brown.edu/president/need-blind-admission-international-undergraduates",
+      "https://studyinternational.com/news/need-blind-universities-in-the-us/",
+      "https://www.theuniversityguys.com/understanding-need-blind-admissions-for-international-students/",
+      "https://scholarships360.org/financial-aid/need-blind-admissions/",
+      "https://www.collegeessayguy.com/blog/need-blind-colleges"
+    ]
+  },
+  "sat_structure": {
+    "label": "структура SAT",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — The current digital SAT has **two Reading and Writing modules** and **two Math modules**, and it is **section-adaptive**: the second module in each section depends on performance in the first module; the maximum total score is **1600** (800 per section).[7] The timing and question counts are **64 minutes/54 questions** for Reading and Writing (**32 minutes and 27 questions per module**) and **70 minutes/44 questions** for Math (**35 minutes and 22 questions per module**).[7]",
+    "sources": [
+      "https://satsuite.collegeboard.org/sat/whats-on-the-test/structure",
+      "https://magoosh.com/sat/new-digital-sat-format/",
+      "https://www.princetonreview.com/college-advice/digital-sat-structure"
+    ],
+    "all_citations": [
+      "https://magoosh.com/sat/new-digital-sat-format/",
+      "https://www.princetonreview.com/college-advice/digital-sat-structure",
+      "https://www.edisonos.com/digital-sat/structure-breakdown",
+      "https://thesatcrashcourse.com/digital-sat-format/",
+      "https://www.piqosity.com/digital-sat-format-modules-easy-vs-hard/",
+      "https://prepmaven.com/blog/test-prep/sat-sections/",
+      "https://satsuite.collegeboard.org/sat/whats-on-the-test/structure",
+      "https://collegeprep.uworld.com/sat/what-is-on-the-sat-test/"
+    ]
+  },
+  "css_profile": {
+    "label": "CSS Profile 1 октября",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — The CSS Profile generally **opens on October 1 each year** for the upcoming admissions/aid cycle, according to College Board’s CSS Profile pages.[5][8] Some colleges still set earlier or different **school-specific deadlines**, especially for Early Decision/Early Action, so October 1 is the **opening date**, not the deadline.[4][5]",
+    "sources": [
+      "https://cssprofile.collegeboard.org/about",
+      "https://cssprofile.collegeboard.org",
+      "https://cssprofile.collegeboard.org/complete-application"
+    ],
+    "all_citations": [
+      "https://www.collegeraptor.com/paying-for-college/articles/financial-aid/css-profile-deadline/",
+      "https://scholarships360.org/financial-aid/css-profile-deadline/",
+      "https://scholarshipsandgrants.us/high-school-seniors/css-profile/",
+      "https://financial-aid.providence.edu/financial-aid-at-providence-college/information-for-prospective-undergraduate-students/applications-deadlines/",
+      "https://cssprofile.collegeboard.org/about",
+      "https://www.collegeessayguy.com/blog/css-profile-and-css-profile-schools",
+      "https://cssprofile.collegeboard.org",
+      "https://cssprofile.collegeboard.org/complete-application"
+    ]
+  },
+  "costs": {
+    "label": "стоимость DET и application fee",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — The current Duolingo English Test fee is **US$70** according to recent fee pages and Duolingo-related guidance, though some third-party pages still show older prices like US$65 or US$59, so the fee has changed over time.[1][4][7] Typical **US undergraduate application fees** are usually **about US$50–US$90 per university**, with many colleges clustering around **US$60–US$75**.[1][2][3][4][5][6][7][8][9][10]",
+    "sources": [
+      "https://leapscholar.com/exams/duolingo",
+      "https://ieltsahead.com/duolingo-english-test-price-fees-cost/",
+      "https://ielts.idp.com/philippines/english-tests/duolingo/duolingo-exam-fees"
+    ],
+    "all_citations": [
+      "https://leapscholar.com/exams/duolingo",
+      "https://ieltsahead.com/duolingo-english-test-price-fees-cost/",
+      "https://ielts.idp.com/philippines/english-tests/duolingo/duolingo-exam-fees",
+      "https://goarno.io/blog/how-much-does-the-duolingo-english-test-cost/",
+      "https://edvoy.com/exams/duolingo-english-test-exam-dates-and-fees/",
+      "https://www.aeccglobal.com/in/advice/duolingo-exam-fees-in-india",
+      "https://abroadcube.com/blog/duolingo-english-test-price",
+      "https://go.duolingo.com/univali.br",
+      "https://scholastictestmasters.com/duolingo-english-test/date-fee/",
+      "https://englishtest.duolingo.com"
+    ]
+  },
+  "ea_ed_rd": {
+    "label": "EA / ED / RD",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — **Early Action (EA)** is non-binding, typically due around **November** and often released in **December**; **Early Decision (ED)** is **binding**—if admitted, you must enroll—typically due around **November** with decisions in **mid-December**, and **ED II** is often due in **January** with decisions in **February**[2][4]. **Regular Decision (RD)** is the standard non-early plan, usually due in **January** with decisions released later in the winter or spring, commonly by **March/April**[4].",
+    "sources": [
+      "https://counselors.collegeboard.org/college-application/early-decision-action",
+      "https://www.compassprep.com/early-action-early-decision-deadlines/",
+      "https://www.collegekickstart.com/blog/item/class-of-2030-early-decision-and-early-action-notification-dates"
+    ],
+    "all_citations": [
+      "https://www.compassprep.com/early-action-early-decision-deadlines/",
+      "https://www.collegekickstart.com/blog/item/class-of-2030-early-decision-and-early-action-notification-dates",
+      "https://www.ivycoach.com/the-ivy-coach-blog/early-decision-early-action/schools-with-early-action/",
+      "https://counselors.collegeboard.org/college-application/early-decision-action",
+      "https://www.solomonadmissions.com/post/list-of-early-action-ea-colleges/"
+    ]
+  },
+  "degree_types": {
+    "label": "типы степеней BA/BFA/BS...",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — In U.S. usage, these abbreviations commonly stand for **BA = Bachelor of Arts**, **BFA = Bachelor of Fine Arts**, **BS = Bachelor of Science**, **BAS = Bachelor of Applied Science**, **BBA = Bachelor of Business Administration**, **BEng = Bachelor of Engineering**, **BArch = Bachelor of Architecture**, and **BN = Bachelor of Nursing**.[3][1]  \n\nA small caveat: **BAS** and **BN** can vary by institution, and **BN** is often written as **BNurs** or **Bachelor of Nursing** in some systems.[1][3]",
+    "sources": [
+      "https://www.aiuniv.edu/degrees/business/articles/bs-vs-ba-degree",
+      "https://degree.studentnews.eu",
+      "https://www.facebook.com/groups/395405588475815/posts/1265329671483398/"
+    ],
+    "all_citations": [
+      "https://degree.studentnews.eu",
+      "https://www.facebook.com/groups/395405588475815/posts/1265329671483398/",
+      "https://facultyandstaff.sgs.utoronto.ca/gfm/glossary-degrees-honorifics/",
+      "https://www.coalitionforcollegeaccess.org/mycoalition-counselor-all/ba-vs-bs-degrees",
+      "https://www.aiuniv.edu/degrees/business/articles/bs-vs-ba-degree",
+      "https://www.study.eu/article/guide-to-bachelors-degrees-ba-bsc-ba-hons-bsc-hons-glossary",
+      "https://en.wikipedia.org/wiki/Bachelor's_degree"
+    ]
+  },
+  "major_minor": {
+    "label": "major и minor",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — In U.S. universities, a **major** is the student’s primary field of study, and a **minor** is an optional secondary area of study that usually requires fewer courses than the major.[1][5][6] A minor is often a shorter, secondary program taken alongside the major, but it is not required and it does not have to be closely related to the major.[5][6][7]",
+    "sources": [
+      "https://www.sulross.edu/about/what-is-a-major-minor-or-concentration/",
+      "https://www.fus.edu/blog/what-s-the-difference-between-a-major-and-a-minor",
+      "https://www.snhu.edu/about-us/newsroom/education/major-vs-minor-vs-concentration"
+    ],
+    "all_citations": [
+      "https://www.sulross.edu/about/what-is-a-major-minor-or-concentration/",
+      "https://www.fus.edu/blog/what-s-the-difference-between-a-major-and-a-minor",
+      "https://en.wikipedia.org/wiki/Academic_minor",
+      "https://www.providenceready.org/resources/blog/2025/may/understanding-majors-and-minors-the-key-to-navig/",
+      "https://uwaterloo.ca/future-students/programs/what-is-major-minor",
+      "https://www.snhu.edu/about-us/newsroom/education/major-vs-minor-vs-concentration",
+      "https://www.kaplanpathways.com/blog/whats-the-difference-between-a-major-and-minor/"
+    ]
+  },
+  "gpa_years": {
+    "label": "GPA за 4 года",
+    "verdict": "PARTLY TRUE",
+    "summary": "PARTLY TRUE: For **U.S. undergraduate admissions**, GPA usually comes from the **high school transcript**, but colleges often look at a **recalculated or core GPA** rather than simply “the last four years” as a single universal rule[3][4]. Some schools, such as CSU, explicitly calculate GPA from **grades earned after 9th grade** (10th–12th only), while many colleges recalculate GPA using their own criteria and may include or exclude freshman year and weighted courses[3][4].",
+    "sources": [
+      "https://www.calstate.edu/apply/gpa-calculator/",
+      "https://aasac.wwu.edu/all-institution-gpa-calculator",
+      "https://www.scholaro.com/gpa-calculator/"
+    ],
+    "all_citations": [
+      "https://www.scholaro.com/gpa-calculator/",
+      "https://www.youtube.com/watch?v=i1y0NPtdBaY",
+      "https://www.calstate.edu/apply/gpa-calculator/",
+      "https://eliteprep.com/blog/how-colleges-recalculate-applicants-gpas-for-college-admissions",
+      "https://greatcollegeadvice.com/blog/calculating-your-real-grade-point-average-gpa/",
+      "https://aasac.wwu.edu/all-institution-gpa-calculator",
+      "https://www.appily.com/colleges/gpa",
+      "https://www.facebook.com/groups/1158804302823363/posts/1317562173614241/"
+    ]
+  },
+  "acceptance_rate": {
+    "label": "acceptance rate",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE** — A typical U.S. university undergraduate acceptance rate is often in the **roughly 60%–70% range** based on aggregate figures cited by admissions sources, while many selective universities admit **under 10%** of applicants.[4][1] The second part is true: multiple sources show top schools like Stanford, Harvard, MIT, and Caltech with acceptance rates below 10%, though the exact rate varies by year and source.[1][3]",
+    "sources": [
+      "https://www.oedb.org/rankings/acceptance-rate/",
+      "https://toptieradmissions.com/resources/college-acceptance-rates/",
+      "https://www.bestcolleges.com/blog/college-acceptance-rates/"
+    ],
+    "all_citations": [
+      "https://www.oedb.org/rankings/acceptance-rate/",
+      "https://toptieradmissions.com/resources/college-acceptance-rates/",
+      "https://www.bestcolleges.com/blog/college-acceptance-rates/",
+      "https://www.comm100.com/blog/american-universities-acceptance-rate/",
+      "https://en.wikipedia.org/wiki/College_admissions_in_the_United_States",
+      "https://www.ivywise.com/blog/college-admission-rates/"
+    ]
+  },
+  "tuition_cost": {
+    "label": "стоимость обучения",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE** — **$35,000–$100,000** is a plausible *annual sticker-price range* for U.S. universities before aid, but it is not a single “typical” cost: public universities can be far below that (for example, about **$27,146** for an in-state public 4-year student on campus), while private nonprofit colleges average about **$58,628** and some UC nonresident totals are around **$86,658**.[4][1]  \n\nIf you mean **tuition and fees only**, the range is often lower than total cost of attendance; if you mean **tuition + fees + living costs**, the range you gave is reasonable for many schools, especially private and out-of-state options.[4][5]",
+    "sources": [
+      "https://admission.universityofcalifornia.edu/tuition-financial-aid/tuition-cost-of-attendance/",
+      "https://financialaid.utah.edu/tuition-and-fees/cost-of-attendance.php",
+      "https://admissions.uni.edu/cost-aid/cost-attendance"
+    ],
+    "all_citations": [
+      "https://admission.universityofcalifornia.edu/tuition-financial-aid/tuition-cost-of-attendance/",
+      "https://financialaid.utah.edu/tuition-and-fees/cost-of-attendance.php",
+      "https://admissions.uni.edu/cost-aid/cost-attendance",
+      "https://educationdata.org/average-cost-of-college",
+      "https://www.topuniversities.com/student-info/student-finance/how-much-does-it-cost-study-us",
+      "https://www.passhe.edu/students/cost.html",
+      "https://www.facebook.com/groups/7255891764494844/posts/9434069393343726/"
+    ]
+  },
+  "merit_auto": {
+    "label": "merit обычно автоматом",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — At many U.S. colleges, students are **automatically considered** for merit aid just by submitting the admissions application, though some schools require a priority deadline or a separate scholarship application for certain awards.[2] Merit scholarships are based on achievement rather than financial need, and schools or programs may ask for essays, transcripts, test scores, or other extra materials depending on the scholarship.[2][4]",
+    "sources": [
+      "https://www.goodwin.edu/glossary/merit-based-scholarships",
+      "https://bold.org/scholarships/by-type/merit-based/",
+      "https://www.collegedata.com/resources/pay-your-way/how-to-get-merit-aid-from-colleges"
+    ],
+    "all_citations": [
+      "https://bold.org/scholarships/by-type/merit-based/",
+      "https://www.collegedata.com/resources/pay-your-way/how-to-get-merit-aid-from-colleges",
+      "https://www.collegeessayguy.com/blog/merit-scholarships",
+      "https://www.sallie.com/scholarships/types/merit-based",
+      "https://www.goodwin.edu/glossary/merit-based-scholarships",
+      "https://www.facebook.com/groups/1688114615260114/posts/2205626196842284/",
+      "https://www.ivywise.com/blog/merit-scholarships/"
+    ]
+  },
+  "need_aware_def": {
+    "label": "need-aware определение",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — **need-blind** admissions means a university decides whether to admit you **without considering your financial need**, while **need-aware** admissions may consider your ability to pay as one factor, especially for international applicants seeking aid.[1][2] For international undergraduates at U.S. universities, the practical difference is that requesting aid usually does **not** affect admission at rare need-blind schools for internationals, but it **can** reduce odds at many need-aware schools.[1][2]",
+    "sources": [
+      "https://www.cirkledin.com/library/scholarships-and-financial-aid/need-blind-vs-need-aware-admissions-policy/",
+      "https://orieladmissions.com/need-blind-need-aware-international-students/",
+      "https://www.scoir.com/blog/need-blind-vs-need-aware-full-financial-need"
+    ],
+    "all_citations": [
+      "https://www.cirkledin.com/library/scholarships-and-financial-aid/need-blind-vs-need-aware-admissions-policy/",
+      "https://orieladmissions.com/need-blind-need-aware-international-students/",
+      "https://www.scoir.com/blog/need-blind-vs-need-aware-full-financial-need",
+      "https://www.facebook.com/groups/collegeadmissionsexperts/posts/10161591040040087/",
+      "https://www.youtube.com/watch?v=oOiyDVi3qWI"
+    ]
+  },
+  "commonapp_activities": {
+    "label": "Common App activities лимиты",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — On the Common Application, an applicant can list **up to 10 activities** and **up to 5 honors and awards** in the separate Honors section.[5] For each activity, the limits are **50 characters** for position/leadership description, **100 characters** for organization name, and **150 characters** for activity details; the Common App PDF also says honors won and accomplishments are part of the 150-character activity-details field.[5]",
+    "sources": [
+      "https://www.commonapp.org/static/a5d59a915bdc2031e62c468ad35e0de9/Resource_FY_Activities_ENG_2025.06.25_0.pdf",
+      "https://www.commandeducation.com/resource/common-app-activities-list/",
+      "https://www.shemmassianconsulting.com/blog/common-app-activities-section"
+    ],
+    "all_citations": [
+      "https://www.commandeducation.com/resource/common-app-activities-list/",
+      "https://www.shemmassianconsulting.com/blog/common-app-activities-section",
+      "https://www.cirkledin.com/library/college-applications-and-admissions/common-application-activities-list-tips-strategy/",
+      "https://www.collegeessayguy.com/blog/guide-college-activities-list-common-app-example-application",
+      "https://www.commonapp.org/static/a5d59a915bdc2031e62c468ad35e0de9/Resource_FY_Activities_ENG_2025.06.25_0.pdf",
+      "https://www.saraharberson.com/blog/trickiest-sections-common-app",
+      "https://toptieradmissions.com/maximizing-the-uc-activity-list/",
+      "https://www.facebook.com/groups/collegeadmissionsexperts/posts/10160759911960087/"
+    ]
+  },
+  "main_essay_words": {
+    "label": "главное эссе слов",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — the Common App main personal essay has a **650-word maximum** for the first-year application, and Common App says the application will enforce a lower **250-word minimum**.[4][8]",
+    "sources": [
+      "https://www.commonapp.org/blog/announcing-2025-2026-common-app-essay-prompts/",
+      "https://www.collegeadvisor.com/resources/common-app-essays/",
+      "https://www.ivycoach.com/the-ivy-coach-blog/the-application/common-app-essay-word-count-limit/"
+    ],
+    "all_citations": [
+      "https://www.collegeadvisor.com/resources/common-app-essays/",
+      "https://www.ivycoach.com/the-ivy-coach-blog/the-application/common-app-essay-word-count-limit/",
+      "https://blog.wordvice.com/how-to-shorten-your-college-application-essay/",
+      "https://collegewise.com/blog/tackling-the-common-app-personal-essay",
+      "https://www.collegeessayguy.com/blog/how-long-should-a-college-essay-be",
+      "https://www.facebook.com/groups/collegeadmissionsexperts/posts/10162249661585087/",
+      "https://www.tiktok.com/@tineocollegeprep/video/7393875573535247659?lang=en",
+      "https://www.commonapp.org/blog/announcing-2025-2026-common-app-essay-prompts/"
+    ]
+  },
+  "supplemental_essays": {
+    "label": "supplemental эссе",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE**: Supplemental essays are school-specific writing prompts beyond the main application essay, and “Why this college?” essays are a common type that asks why you want that school and/or program[1][2][3]. **Yes, word limits vary by school and by prompt**—examples in the results range from 50 words to 650 words, so you must check each college’s instructions individually[2][3][4][5].",
+    "sources": [
+      "https://www.collegeessayadvisors.com/supplemental-essay-guide/",
+      "https://www.collegeadvisor.com/essay-guides/",
+      "https://www.ivywise.com/blog/common-app-supplements/"
+    ],
+    "all_citations": [
+      "https://www.collegeessayadvisors.com/supplemental-essay-guide/",
+      "https://www.collegeadvisor.com/essay-guides/",
+      "https://www.ivywise.com/blog/common-app-supplements/",
+      "https://internationalcollegecounselors.com/in-the-essay/",
+      "https://blog.collegevine.com/why-this-college-essay-examples",
+      "https://www.collegeessayguy.com/supplemental-essays",
+      "https://www.princetonreview.com/college-advice/application-essay-topics",
+      "https://www.ivyscholars.com/the-9-types-of-supplemental-essays-and-how-to-write-them/"
+    ]
+  },
+  "rec_letters": {
+    "label": "рекомендательные письма",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE**: there is **no single typical number** across all U.S. undergraduate universities, because many schools require **0**, some require **1 academic letter**, and some require **2**—often **one counselor + one teacher**.[3][4][5] For example, Penn requires **2** recommendations (counselor/administrator + core-subject teacher), while UC generally does **not** require letters unless a campus/major asks for them.[4][5]",
+    "sources": [
+      "https://socialsciences.uchicago.edu/admissions/application-materials/letters-recommendation",
+      "https://www.uc.edu/news/articles/2022/12/how-to-write-a-letter-of-recommendation-that-strengthens-a-students-college-application.html",
+      "https://www.sandiego.edu/admission-and-aid/undergraduate/apply/application-requirements.php"
+    ],
+    "all_citations": [
+      "https://socialsciences.uchicago.edu/admissions/application-materials/letters-recommendation",
+      "https://www.uc.edu/news/articles/2022/12/how-to-write-a-letter-of-recommendation-that-strengthens-a-students-college-application.html",
+      "https://www.sandiego.edu/admission-and-aid/undergraduate/apply/application-requirements.php",
+      "https://admissions.upenn.edu/how-to-apply/preparing-your-application/letters-of-recommendation",
+      "https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/applying-for-admission/"
+    ]
+  },
+  "english_tests_accept": {
+    "label": "TOEFL/IELTS/Duolingo принимают",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — Many U.S. universities accept **TOEFL**, **IELTS**, and often the **Duolingo English Test** as proof of English proficiency for international applicants, but acceptance is **institution-specific** and some schools accept only certain exams or set different minimum scores.[3][4][7]\n\nExamples from official university sources show this clearly: UC accepts **TOEFL, IELTS, and Duolingo** with specific minimum scores, while Duolingo’s own institution list notes that acceptance varies by school and some applicants may still need to submit additional proof.[3][4]",
+    "sources": [
+      "https://www.aeccglobal.com/advice/duolingo-accepted-universities-in-usa",
+      "https://englishtest.duolingo.com/test_takers/accepting_institutions",
+      "https://gostudyin.com/study-in-usa/study-guides/usa-universities-accepting-duolingo-english-test/"
+    ],
+    "all_citations": [
+      "https://www.aeccglobal.com/advice/duolingo-accepted-universities-in-usa",
+      "https://www.youtube.com/watch?v=C2RC2d6cg_Y&vl=en-US",
+      "https://admission.universityofcalifornia.edu/admission-requirements/international-applicants/english-language-proficiency-toefl-ielts.html",
+      "https://englishtest.duolingo.com/test_takers/accepting_institutions",
+      "https://www.facebook.com/groups/3592355874122894/posts/28968069509458181/",
+      "https://gostudyin.com/study-in-usa/study-guides/usa-universities-accepting-duolingo-english-test/",
+      "https://admissions.pitt.edu/international/toefl-ielts-duolingo/"
+    ]
+  },
+  "css_cost": {
+    "label": "стоимость CSS Profile",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — The CSS Profile costs **$25** for the initial application, which includes one school, and **$16** for each additional school report.[7][2]",
+    "sources": [
+      "https://cssprofile.collegeboard.org/fee-waivers",
+      "https://cssprofile.collegeboard.org/complete-application",
+      "https://scholarships360.org/financial-aid/css-profile-fee-waiver/"
+    ],
+    "all_citations": [
+      "https://scholarships360.org/financial-aid/css-profile-fee-waiver/",
+      "https://www.coalitionforcollegeaccess.org/mycoalition-counselor-all/understanding-the-css-profile-2025",
+      "https://www.class101.com/blog/css-profile-and-the-fafsa-what-families-need-to-know/",
+      "https://www.youtube.com/watch?v=RJwbsIcNarw",
+      "https://cssprofile.collegeboard.org/fee-waivers",
+      "https://www.facebook.com/groups/1688114615260114/posts/2156002701804634/",
+      "https://cssprofile.collegeboard.org/complete-application"
+    ]
+  },
+  "ed_binding": {
+    "label": "ED обязывает",
+    "verdict": "TRUE",
+    "summary": "**TRUE**: Early Decision (**ED**) is binding, and you can apply ED to only **one** college; if admitted and the aid offer is acceptable, you must enroll and withdraw other applications.[5][2] **Restrictive Early Action (REA)** is **non-binding**, but it limits where else you can apply early—typically you cannot apply to other schools under ED/EA while your REA application is pending, though policies vary by college.[5][4]",
+    "sources": [
+      "https://counselors.collegeboard.org/college-application/early-decision-action",
+      "https://en.wikipedia.org/wiki/Early_decision",
+      "https://www.princetonreview.com/college-advice/early-action-vs-early-decision"
+    ],
+    "all_citations": [
+      "https://en.wikipedia.org/wiki/Early_decision",
+      "https://www.princetonreview.com/college-advice/early-action-vs-early-decision",
+      "https://www.citizensbank.com/student/articles/happens-back-early-decision.aspx",
+      "https://www.mefa.org/article/the-basics-of-early-action-and-early-decision/",
+      "https://counselors.collegeboard.org/college-application/early-decision-action",
+      "https://www.ivywise.com/blog/application-strategy-learn-how-early-decision-works/",
+      "https://www.ihep.org/wp-content/uploads/2021/06/IHEP_JOYCE_Ch3-1.pdf",
+      "https://www.facebook.com/groups/collegeadmissionsexperts/posts/10160640995095087/"
+    ]
+  },
+  "app_deadline": {
+    "label": "дедлайны подачи",
+    "verdict": "TRUE",
+    "summary": "TRUE. **Regular Decision** deadlines at US universities commonly fall in **early January**, especially **January 1** or **January 15**, though many schools also use dates in **late December, mid-January, and sometimes February**; Common App notes a **January 15** Regular Decision deadline, while ACT describes Regular Decision as **January/February** and other college-guidance sources list many schools on **January 1–15**.[8][6][2]",
+    "sources": [
+      "https://appsupport.commonapp.org/applicantsupport/s/article/decision-plans-chxanysj",
+      "https://www.collegeraptor.com/getting-in/articles/college-applications/understanding-the-4-different-types-of-college-deadlines/",
+      "https://blog.prepscholar.com/college-application-deadlines"
+    ],
+    "all_citations": [
+      "https://www.collegeraptor.com/getting-in/articles/college-applications/understanding-the-4-different-types-of-college-deadlines/",
+      "https://blog.prepscholar.com/college-application-deadlines",
+      "https://collegewise.com/blog/early-action-early-decision-regular-decision-full-guide",
+      "https://www.bestcolleges.com/blog/college-application-deadlines/",
+      "https://www.ivycoach.com/the-ivy-coach-blog/the-application/college-application-due-dates/",
+      "https://www.act.org/content/act/en/students-and-parents/college-planning-resources/applying-to-college/college-application-deadlines.html",
+      "https://www.ivywise.com/blog/regular-decision-notification-dates/",
+      "https://appsupport.commonapp.org/applicantsupport/s/article/decision-plans-chxanysj"
+    ]
+  },
+  "fee_waiver": {
+    "label": "fee waiver",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — Applicants can receive a **Common App fee waiver** if they meet Common App’s eligibility criteria, which include financial-need indicators such as low-income programs, free/reduced-price lunch, SAT/ACT or Pell eligibility, public assistance, foster care/homelessness, ward of the state/orphan status, or a counselor/official supporting statement; the applicant must self-certify in Common App and the counselor confirms eligibility.[1][4][8] Common App also notes that some colleges offer **their own** school-specific fee waivers in addition to the Common App waiver.[1]",
+    "sources": [
+      "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-application-fee-waiver-faq",
+      "https://www.commonapp.org/static/d8d4fe3bc09d9b0a67d715d9bb6b20f9/FY-Apply-College-Application-Fees-Waivers.pdf",
+      "https://membersupport.commonapp.org/membersupport/s/article/fee-waivers-tklkhnow"
+    ],
+    "all_citations": [
+      "https://www.commonapp.org/static/d8d4fe3bc09d9b0a67d715d9bb6b20f9/FY-Apply-College-Application-Fees-Waivers.pdf",
+      "https://bigfuture.collegeboard.org/plan-for-college/apply-to-college/college-application-fee-waiver-faq",
+      "https://www.facebook.com/groups/7255891764494844/posts/8824479784302693/",
+      "https://help.liaisonedu.com/The_Common_App_for_transfer_Applicant_Help_Center/Filling_Out_Your_Common_App_for_transfer/Personal_Information/8_Common_App_for_transfer_Fee_Waiver",
+      "https://www.coalitionforcollegeaccess.org/fee-waiver",
+      "https://membersupport.commonapp.org/membersupport/s/article/fee-waivers-tklkhnow",
+      "https://appsupport.commonapp.org/applicantsupport/s/article/fee-waiver-kpbwccvj",
+      "https://membersupport.commonapp.org/s/article/What-do-I-need-to-know-about-the-Common-App-fee-waiver"
+    ]
+  },
+  "grammarly_ru": {
+    "label": "Grammarly в РФ/РБ",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — Grammarly says it **does not allow access** to its services from **Russia, Belarus, and temporarily occupied territories of Ukraine**, and its support page says it blocks connections from those locations, including through VPN/proxy methods.[4] The restriction is described by Grammarly as a security measure tied to the war in Ukraine, and secondary reporting also says the company suspended services in Russia and Belarus.[1][2]",
+    "sources": [
+      "https://ofac.treasury.gov/sanctions-programs-and-country-information/belarus-sanctions",
+      "https://www.government.nl/themes/international-cooperation/russia-and-ukraine/sanctions-against-russia-and-belarus",
+      "https://www.federalregister.gov/documents/2023/02/27/2023-03927/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration"
+    ],
+    "all_citations": [
+      "https://english.nv.ua/nation/patreon-grammarly-platforms-blocked-in-russia-50261705.html",
+      "https://pragmatika.media/en/news/ukrainskij-servis-grammarly-zablokuvav-dostup-dlja-rosijskih-ta-biloruskih-koristuvachiv/",
+      "https://leave-russia.org/grammarly",
+      "https://support.grammarly.com/hc/en-us/articles/8788696353549-How-does-Grammarly-ensure-security-amid-the-ongoing-war-on-Ukraine",
+      "https://ofac.treasury.gov/sanctions-programs-and-country-information/belarus-sanctions",
+      "https://www.government.nl/themes/international-cooperation/russia-and-ukraine/sanctions-against-russia-and-belarus",
+      "https://www.federalregister.gov/documents/2023/02/27/2023-03927/implementation-of-additional-sanctions-against-russia-and-belarus-under-the-export-administration",
+      "https://2021-2025.state.gov/belarus-sanctions/"
+    ]
+  },
+  "toefl_ielts_cost": {
+    "label": "стоимость TOEFL/IELTS",
+    "verdict": "PARTLY TRUE",
+    "summary": "**PARTLY TRUE** — The **TOEFL iBT** typically costs about **US$270 in the United States**, though the fee varies by country and can range roughly from **US$173 to US$475** overall.[1][2][8] For **IELTS**, the typical fee in the U.S. is usually around **US$250 to US$270**, but it also varies by test center and location; I don’t have an official primary-source result here to cite for IELTS specifically.",
+    "sources": [
+      "https://www.in.ets.org/toefl/test-takers/ibt/register/fees.html",
+      "https://www.ets.org/toefl/test-takers/ibt/register/fees.html",
+      "https://magoosh.com/toefl/toefl-exam-fee-and-cost/"
+    ],
+    "all_citations": [
+      "https://magoosh.com/toefl/toefl-exam-fee-and-cost/",
+      "https://study.com/toefl/registration/how-much-does-the-toefl-cost.html",
+      "https://en.amazingtalker.com/blog/en/other/122084/",
+      "https://zabeelinstitute.ae/blog/toefl-exam-cost/",
+      "https://tutors.com/costs/toefl-exam-cost",
+      "https://www.manhattanreview.com/toefl-registration/",
+      "https://www.in.ets.org/toefl/test-takers/ibt/register/fees.html",
+      "https://www.ets.org/toefl/test-takers/ibt/register/fees.html"
+    ]
+  },
+  "sat_superscore": {
+    "label": "SAT superscore",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — many U.S. universities do allow **SAT superscoring**, meaning they combine your highest section scores from different test dates into one composite score, and the College Board says many colleges use this policy.[7] However, **not all** schools superscore, so each university’s score-use policy should be checked individually.[7]",
+    "sources": [
+      "https://blog.collegeboard.org/what-is-an-sat-superscore",
+      "https://ascendnow.org/online-tutoring/sat-act/sat-super-scoring/",
+      "https://sat.blog.targettestprep.com/which-schools-superscore-sat/"
+    ],
+    "all_citations": [
+      "https://ascendnow.org/online-tutoring/sat-act/sat-super-scoring/",
+      "https://sat.blog.targettestprep.com/which-schools-superscore-sat/",
+      "https://www.compassprep.com/superscore-and-score-choice/",
+      "https://blog.prepscholar.com/which-colleges-superscore-the-sat",
+      "https://premiercollegeprep.com/superscore-policies",
+      "https://prepmaven.com/blog/test-prep/sat-superscore-2019/",
+      "https://blog.collegeboard.org/what-is-an-sat-superscore",
+      "https://www.scoreatthetop.com/blog/colleges-that-do-not-superscore-the-sat"
+    ]
+  },
+  "efset_free": {
+    "label": "EFSET бесплатный",
+    "verdict": "TRUE",
+    "summary": "**TRUE** — EF SET says it is a **free** online English test, and its site describes it as a free English level test with free certification and CEFR-aligned results.[2][1]",
+    "sources": [
+      "https://englishlive.ef.com/en/campaigns/efset/",
+      "https://www.efset.org",
+      "https://www.englishradar.com/english-test/"
+    ],
+    "all_citations": [
+      "https://englishlive.ef.com/en/campaigns/efset/",
+      "https://www.efset.org",
+      "https://www.englishradar.com/english-test/",
+      "https://www.ef.com/wwen/test/english/",
+      "https://www.youtube.com/watch?v=0hzcUvD1JRw",
+      "https://en.wikipedia.org/wiki/EF_Standard_English_Test",
+      "https://www.facebook.com/Fluffy4250/posts/test-your-english-skills-its-free-ef-set-httpswwwefsetorg-offers-a-15-minute-qui/904466382337644/"
+    ]
+  }
+}

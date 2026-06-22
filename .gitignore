@@ -1,0 +1,20 @@
+# секреты
+.env
+*.key
+
+# артефакты-выходы
+output/
+images/_drafts/
+*.docx
+*.pdf
+
+# черновики картинок, кэш ресёрча
+research_cache/
+*.png
+!images/reference/*.png
+
+# python
+venv/
+__pycache__/
+*.pyc
+.DS_Store
