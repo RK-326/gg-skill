@@ -24,7 +24,8 @@ import urllib.request
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # Модель, которая реально РИСУЕТ картинки (Gemini Pro картинки не генерирует).
-DEFAULT_MODEL = "google/gemini-2.5-flash-image"
+# Берётся из OPENROUTER_IMAGE_MODEL (.env), иначе дефолт ниже.
+DEFAULT_MODEL = os.environ.get("OPENROUTER_IMAGE_MODEL", "google/gemini-2.5-flash-image")
 
 # Префикс фирменного стиля GG (синхронизирован с images/README.md).
 STYLE_PREFIX = (
