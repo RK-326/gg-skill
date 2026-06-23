@@ -7,6 +7,8 @@ output/
 images/_drafts/
 *.docx
 *.pdf
+# но переиспользуемую болванку шаблона версионируем (эталон example.docx — нет, он тяжёлый)
+!template/blank.docx
 
 # черновики картинок, кэш ресёрча
 research_cache/
