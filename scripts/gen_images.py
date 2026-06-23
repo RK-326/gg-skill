@@ -38,13 +38,23 @@ STYLE_PREFIX = (
 )
 
 
-def generate_one(prompt, model, api_key):
-    """Один запрос к OpenRouter, возвращает bytes картинки (или None)."""
-    body = json.dumps({
+def generate_one(prompt, model, api_key, aspect=None):
+    """Один запрос к OpenRouter, возвращает bytes картинки (или None).
+
+    aspect: соотношение сторон ("16:9", "1:1", ...). Передаётся как top-level
+    поле aspect_ratio (OpenRouter image generation). Без него модель часто
+    отдаёт квадрат 1024x1024.
+    """
+    payload = {
         "model": model,
         "modalities": ["image", "text"],
         "messages": [{"role": "user", "content": prompt}],
-    }).encode("utf-8")
+    }
+    if aspect:
+        # ВАЖНО: Gemini-image уважает соотношение только во ВЛОЖЕННОМ image_config,
+        # top-level aspect_ratio он игнорирует (отдаёт квадрат 1024x1024).
+        payload["image_config"] = {"aspect_ratio": aspect}
+    body = json.dumps(payload).encode("utf-8")
 
     req = urllib.request.Request(
         API_URL,
@@ -87,6 +97,8 @@ def main():
     ap.add_argument("--no-style", action="store_true",
                     help="не добавлять фирменный префикс стиля")
     ap.add_argument("--name", default="img", help="префикс имени файлов")
+    ap.add_argument("--aspect", default="16:9",
+                    help="соотношение сторон (16:9 баннер по умолч.; 1:1 квадрат)")
     args = ap.parse_args()
 
     api_key = os.environ.get("OPENROUTER_API_KEY")
@@ -104,13 +116,13 @@ def main():
     os.makedirs(args.out, exist_ok=True)
     print(f"Модель: {args.model}")
     print(f"Промт: {prompt[:120]}{'...' if len(prompt) > 120 else ''}")
-    print(f"Вариантов: {args.n} → {args.out}\n")
+    print(f"Вариантов: {args.n} → {args.out} | aspect: {args.aspect}\n")
 
     saved = 0
     for i in range(1, args.n + 1):
         print(f"[{i}/{args.n}] генерирую...")
         try:
-            png = generate_one(prompt, args.model, api_key)
+            png = generate_one(prompt, args.model, api_key, aspect=args.aspect)
         except Exception as e:
             print(f"  ! ошибка запроса: {e}", file=sys.stderr)
             png = None
